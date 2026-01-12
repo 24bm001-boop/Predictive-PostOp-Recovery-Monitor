@@ -1,0 +1,53 @@
+# Predictive-PostOp-Recovery-Monitor
+
+An IoT-based post-operative patient monitoring system that uses edge intelligence and AI to predict recovery risks and provide real-time alerts.
+
+---
+
+## 📌 Overview
+This system continuously monitors patient vital signs after surgery using biomedical sensors.  
+Data is processed at the **edge**, securely transmitted to the **cloud**, and analyzed using **machine learning models** to predict patient deterioration.
+
+---
+
+## 🧱 Project Architecture
+
+---
+
+## 🛠 Technologies Used
+- ESP32 (IoT)
+- Biomedical Sensors
+- Signal Processing (Moving Average, Kalman Filter)
+- Edge Intelligence
+- Firebase / Cloud Platform
+- Machine Learning
+- Cybersecurity (AES-256, Secure Authentication)
+- Web Dashboard
+
+---
+
+## 👤 Individual Contribution (My Work)
+
+### 🔧 Responsibilities
+- Implemented Moving Average filter to reduce noise in sensor data
+- Implemented Kalman Filter for accurate vital sign estimation
+- Performed real-time preprocessing at the edge device
+- Reduced false alerts and cloud load
+
+---
+
+## 🔐 Security Features
+- End-to-end data encryption
+- Secure device authentication
+- Privacy-aware data transmission
+
+---
+
+## 🏥 Applications
+- Post-operative recovery monitoring
+- Home healthcare
+- Remote patient monitoring
+
+
+### 🔹 Edge Intelligence & Signal Processing
+
